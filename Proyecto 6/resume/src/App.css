@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  background: linear-gradient(45deg, #7B1FA2, #7E57C2, #9575CD, #9FA8DA, #CE93D8 );
+}
+

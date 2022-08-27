@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.images {
+    width: 30vmax;
+    height: auto;
+    align-items: center;
+    border-radius: 20vmax;
+    border: 5px solid white;
+}
+
+.contact h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2vmax;
+    color: #E3F2FD;
+    margin: 5px 0 5px 0;
+}
+
+.container h1 {
+    font-family: 'Pacifico', sans-serif;
+    font-size: 6vmax;
+    color: aliceblue;
+    border-top: 2px solid aliceblue;
+    border-bottom: 2px solid aliceblue;
+}
+
+.container p{
+    font-family: 'Amatic', sans-serif;
+    color: aliceblue;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 80px;
+    text-align: justify;
+}
+
+@media (max-width: 1000px) {
+    .container h1{
+        text-align: center;
+    }
+
+    .container p{
+        text-align: center;
+        text-align: justify;
+    }
+}

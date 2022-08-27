@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Montserrat:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+body {
+    margin: 10vmax;
+}
+
+.box{
+    background-color: #fdf4ff;
+}
+
+.onside-box {
+    margin: 0vmax 3vmax 5vmax 3vmax;
+}
+
+.section {
+    margin-bottom: 2.5vmax;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #F8BBD0;
+}
+
+.Title {
+    font-family: 'Montserrat', serif;
+    font-size: 30px;
+    width: 100px;
+    margin: 0;
+    border-bottom: 2px solid #9C27B0;
+}
+
+.school {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin: 2vmax;
+}
+
+.school li {
+    list-style: none;
+    text-align: inherit;
+    justify-content: center;
+    font-family: 'Amatic', sans-serif;
+
+}
+
+.titlle-school {
+    font-size: 30px;
+    text-shadow: 1px 2px black;
+}
+
+.date {
+    font-size: 15px;
+    margin-top: 1.5vmax;
+    color: #EA80FC ;
+}
+
+.programs h3{
+    font-size: 30px;
+    color: #9C27B0;
+    text-shadow: 1px 2px #512DA8 ;
+}
+
+.icon{
+    width: 6vmax;
+}
+
+.workflow li {
+    font-size: 18px;
+    list-style: telugu;
+}
+
+.level {
+    list-style: none;
+    margin: 5px;
+}
+
+@media (max-width: 1000px) {
+    body {
+        margin: 4vmax;
+    }
+}
