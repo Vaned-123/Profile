@@ -93,7 +93,7 @@ function Home() {
             <div className='Title'>
                 <h1>Interests</h1>
             </div>
-            <p>Apart from being student, I enjoy most of my time being indoors, 
+            <p className='inter-p'>Apart from being student, I enjoy most of my time being indoors, 
                 I follow a number of sci-fi and fantasy genre movies and television shows. I am a gamer, but 
                 I spend a large amount of my free time exploring the latest technology advancements.
                 <br /><br />
