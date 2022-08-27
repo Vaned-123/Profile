@@ -54,10 +54,18 @@ body {
     color: #EA80FC ;
 }
 
+.programs {
+    margin: 5vmax 0 2vmax 6vmax
+}
+
 .programs h3{
     font-size: 30px;
     color: #9C27B0;
     text-shadow: 1px 2px #512DA8 ;
+}
+
+.idioms {
+    margin: 5vmax 0 2vmax 6vmax
 }
 
 .icon{

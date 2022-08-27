@@ -56,6 +56,10 @@
     color: #9B59B6;
 }
 
+.icon-container{
+    align-self: center;
+}
+
 .icon-header h4{
     font-size: 25px;
     color: #E3F2FD;

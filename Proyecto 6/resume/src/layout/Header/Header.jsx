@@ -21,7 +21,7 @@ function Header() {
           <div className='h4-icon'>
             <h4>Social Media          </h4>
           </div>
-          <div>
+          <div className='icon-container'>
             <a href='https://www.facebook.com/vanessa.delacruz.7355'><FaFacebook size='6.5vmax' color='white' className='icon-he'/></a>
             <a href='https://github.com/Vaned-123'><FaGithub  size='6.5vmax' color='white' className='icon-he'/></a>
           </div>

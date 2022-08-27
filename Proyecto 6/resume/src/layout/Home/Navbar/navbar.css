@@ -33,3 +33,23 @@
     color: #311B92;
     transition: all 0.5s ease-out;
 }
+
+@media (max-width: 700px) {
+    .Navbar {
+        font-size: 2vmax;
+        
+    }
+
+    .menu {
+        display: flex;
+        flex-direction: row;
+        width: fit-content;
+        width: 50vw;
+    }
+
+    .menu a {
+        text-decoration: none;
+        margin-right: 5px;
+        padding: 0.1vmax 0.1rem;
+    }
+}
